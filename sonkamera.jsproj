@@ -131,6 +131,12 @@
       <SubType>Designer</SubType>
     </Content>
     <Content Include="index.html" />
+    <Content Include="plugins\com.phonegap.plugin.statusbar\.fetch.json" />
+    <Content Include="plugins\com.phonegap.plugin.statusbar\plugin.xml" />
+    <Content Include="plugins\com.phonegap.plugin.statusbar\README.md" />
+    <Content Include="plugins\com.phonegap.plugin.statusbar\src\ios\CDVStatusBar.h" />
+    <Content Include="plugins\com.phonegap.plugin.statusbar\src\ios\CDVStatusBar.m" />
+    <Content Include="plugins\com.phonegap.plugin.statusbar\www\statusbar.js" />
     <Content Include="plugins\cordova-plugin-camera\.fetch.json" />
     <Content Include="plugins\cordova-plugin-camera\CONTRIBUTING.md" />
     <Content Include="plugins\cordova-plugin-camera\doc\de\index.md" />
