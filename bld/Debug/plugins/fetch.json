@@ -1,4 +1,10 @@
 {
+    "com.phonegap.plugin.statusbar": {
+        "source": {
+            "type": "local",
+            "path": "c:\\users\\coder\\documents\\visual studio 2013\\Projects\\sonkamera\\sonkamera\\plugins\\com.phonegap.plugin.statusbar"
+        }
+    },
     "cordova-plugin-camera": {
         "source": {
             "type": "local",
